@@ -22,7 +22,7 @@ jobs:
       - run: npm ci
 
       - name: Test
-        run: npm run test -- --ci --coverage --maxWorkers=2
+        run: npm run test -- --ci --reporters='default' --reporters='./github-actions-reporter'
 
       - name: Build
         run: npm run build

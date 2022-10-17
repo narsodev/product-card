@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Card increases counter 1`] = `
+<div
+  className="productCard "
+>
+  <h1>
+    Product Card
+  </h1>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  >
+    +
+  </button>
+</div>
+`;
+
+exports[`Product Card renders children 1`] = `
+<div
+  className="productCard "
+>
+  <h1>
+    Product Card
+  </h1>
+</div>
+`;

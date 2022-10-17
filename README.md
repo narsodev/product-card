@@ -13,7 +13,8 @@ import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'product
 ```tsx
 const product = {
   id: '1',
-  title: 'Coffee Mug - Card'
+  title: 'Coffee Mug - Card',
+  img: './coffee-mug.jpg'
 }
 ```
 

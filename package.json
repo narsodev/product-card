@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "product-card",
+  "name": "@narsodev/product-card",
   "author": "narsodev",
   "module": "dist/product-card.esm.js",
   "size-limit": [
